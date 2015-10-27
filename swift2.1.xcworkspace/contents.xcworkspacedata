@@ -30,7 +30,10 @@
          location = "group:Guard-statement.playground">
       </FileRef>
       <FileRef
-         location = "group:Protocol-extensions.playground">
+         location = "group:ProtocolExtension.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Enum-Examples.playground">
       </FileRef>
    </Group>
 </Workspace>

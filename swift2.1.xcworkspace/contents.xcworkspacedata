@@ -41,5 +41,8 @@
       <FileRef
          location = "group:Pattern-Matching.playground">
       </FileRef>
+      <FileRef
+         location = "group:api-availability-cheking.playground">
+      </FileRef>
    </Group>
 </Workspace>

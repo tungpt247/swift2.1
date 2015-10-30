@@ -3,6 +3,13 @@
    version = "1.0">
    <Group
       location = "container:"
+      name = "Functional-Programming">
+      <FileRef
+         location = "group:FunctionalProgramming.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
       name = "Dependency-Injections">
       <FileRef
          location = "group:/Users/tungphan/2015/my-projects/ios/swift2.1/1-repeat.playground">
@@ -37,6 +44,12 @@
       </FileRef>
       <FileRef
          location = "group:/Users/tungphan/2015/my-projects/ios/swift2.1/Protocol-overloading.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Pattern-Matching.playground">
+      </FileRef>
+      <FileRef
+         location = "group:api-availability-cheking.playground">
       </FileRef>
    </Group>
 </Workspace>

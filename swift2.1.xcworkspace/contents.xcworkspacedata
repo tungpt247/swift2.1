@@ -7,6 +7,15 @@
       <FileRef
          location = "group:FunctionalProgramming.playground">
       </FileRef>
+      <FileRef
+         location = "group:map.playground">
+      </FileRef>
+      <FileRef
+         location = "group:filter.playground">
+      </FileRef>
+      <FileRef
+         location = "group:reduce.playground">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
